@@ -12,7 +12,7 @@ public abstract class Entity extends Base
     
     public int getId()
     {
-        //wanglei is a dog!
+        //wanglei is a dog!aaaaa
         return id;
     }
     
