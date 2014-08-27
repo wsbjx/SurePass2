@@ -14,7 +14,7 @@ public class Favourite
     
     public Favourite()
     {
-        
+        //wanglei is a dog!
     }
     
     public int getFavouritelistId()
