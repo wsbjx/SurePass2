@@ -12,7 +12,7 @@ public class CityEntity
     
     public void setId(int id)
     {
-        this.id = id;
+        this.id = id;//test
     }
     
     public String getName()
