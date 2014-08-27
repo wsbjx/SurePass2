@@ -2,7 +2,7 @@ package com.ideacode.news.bean;
 
 public class Favourite
 {
-    
+    private String  str;
     private int     favouritelistId;
     private long    favouritelistUserid;
     private int     favouritelistNewstype;
